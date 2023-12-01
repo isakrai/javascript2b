@@ -1,1 +1,1 @@
-# javascript2b
+# Sovellusten kehittäminen JavaScriptillä / Projekti 2b
