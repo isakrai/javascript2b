@@ -2,6 +2,6 @@
 
 Teimme tämän parityönä Werneri Pudaksen kanssa. Teimme To do -listan käyttämällä jQueryä.
 
-Linkki sovellukseen
+Linkki sovellukseen:
 <br>
-Netlifylinkki:
+Netlifylinkki: https://glittery-nougat-de0759.netlify.app
